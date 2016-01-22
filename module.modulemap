@@ -1,0 +1,5 @@
+module CUnsafeSignalCasts [system] {
+  header "CUnsafeSignalCasts.h"
+  
+  export *
+}
